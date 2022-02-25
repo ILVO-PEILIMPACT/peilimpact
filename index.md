@@ -37,7 +37,6 @@ het mee opvolgt](./stuurgroep.html) en wat de planning is? Bekijk dan zeker de d
 <td><img src=".\figs\tom.jpg" width="150"/></td>
 <td><img src=".\figs\sarah.jpg" width="150"/></td>
 </tr>
-
 </table>
 
 ## Contact
