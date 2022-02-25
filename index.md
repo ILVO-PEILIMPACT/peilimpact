@@ -21,7 +21,7 @@ het mee opvolgt](./stuurgroep.html) en wat de planning is? Bekijk dan zeker de d
 > samen met je collega's. [Meer informatie...](./stuurgroep.md)
 
 ## Het team
-<table bgcolor="#000000", border="0">
+<table>
 <tr>
 <td align="center">Diana Estrella</td>
 <td align="center">Tom Deswaef</td>
