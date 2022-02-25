@@ -13,7 +13,7 @@ Ik neem deel en [schrijf me in](https://www.eventbrite.be/e/registratie-peilimpa
 ## Samenstelling van de begeleidende groep
 PEILIMPACT wil aan de wieg staan van een tool die de impact van grondwaterpeilen, maar ook van droogte op de landbouwpraktijk kan inschatten. Daarom is het erg belangrijk van aan de start met stakeholders aan het istrumentarium te werken. Enerzijds zijn dat natuurlijk de landbouwers zelf. Anderzijds is er ook een bredere begeleidende groep waarin allerlei belanghebbenden het project kunnen opvolgen.
 <table>
-  <tr><th>
+  <tr><td>
  Anne	Gobin	- KULeuven/VITO
 Hendrik	Vandamme - ABS
 Ilse	Geyskens - Boerenbond
@@ -23,8 +23,9 @@ Sven	Defrijn	- Boerenatuur
 Tom	    Coussement	- BDB
 Thomas	Vansteenkiste	- VMM
 Tine	Bommarez - Dpt Landbouw en Visserij
-Isabel Roldan - ILVO t
-    <th>
+Isabel Roldan - ILVO 
+   </td>
+    <td>
 Vincent	Wolfs	- Sumaqua
 Dominique Huits - Inagro
 Elise 	Vandewoestijne - PCG
@@ -35,7 +36,7 @@ Kris 	Van Nieuwenhove - Provincie Antwerpen
 Marlies	Demuijnck - Provincie Limburg
 Lennert Damen - ANB
 Piet 	Debecker - INBO
-    </th>
+    </td>
 </tr>
 </table>
 
