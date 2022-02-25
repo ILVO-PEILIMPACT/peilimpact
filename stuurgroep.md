@@ -13,33 +13,28 @@ Ik neem deel en [schrijf me in](https://www.eventbrite.be/e/registratie-peilimpa
 ## Samenstelling van de begeleidende groep
 PEILIMPACT wil aan de wieg staan van een tool die de impact van grondwaterpeilen, maar ook van droogte op de landbouwpraktijk kan inschatten. Daarom is het erg belangrijk van aan de start met stakeholders aan het istrumentarium te werken. Enerzijds zijn dat natuurlijk de landbouwers zelf. Anderzijds is er ook een bredere begeleidende groep waarin allerlei belanghebbenden het project kunnen opvolgen.
 <table>
-  <tr><th align="left">
-    <ul>
-        <li> Anne	Gobin	- KULeuven/VITO</li>
-        <li> Hendrik	Vandamme - ABS</li>
-        <li> Ilse	Geyskens - Boerenbond</li>
-        <li> Jan	    Staes	- UAntwerpen</li>
-        <li> Marie	Verhassel	- Dpt Landbouw en Visserij</li>
-        <li> Sven	Defrijn	- Boerenatuur</li>
-        <li> Tom	    Coussement	- BDB</li>
-        <li> Thomas	Vansteenkiste	- VMM</li>
-        <li> Tine	Bommarez - Dpt Landbouw en Visserij</li>
-        <li> Isabel Roldan - ILVO </li>
-    </ul>
-    </th>
-    <th align="left">
-    <ul> 
-        <li>Vincent	Wolfs	- Sumaqua
-        <li>Dominique Huits-Inagro
-        <li>Elise 	Vandewoestijne - PCG
-        <li>Joris 	Denies	 - PSKW
-        <li>Michel	Vanombergen - Dpt Landbouw en Visserij
-        <li>Geert	Rogiers - VLM
-        <li>Kris 	Van Nieuwenhove - Provincie Antwerpen
-        <li>Marlies	Demuijnck - Provincie Limburg
-        <li>Lennert Damen - ANB
-        <li>Piet 	Debecker - INBO
-    </ul>
+  <tr><th>
+ Anne	Gobin	- KULeuven/VITO
+Hendrik	Vandamme - ABS
+Ilse	Geyskens - Boerenbond
+Jan	    Staes	- UAntwerpen
+Marie	Verhassel	- Dpt Landbouw en Visserij
+Sven	Defrijn	- Boerenatuur
+Tom	    Coussement	- BDB
+Thomas	Vansteenkiste	- VMM
+Tine	Bommarez - Dpt Landbouw en Visserij
+Isabel Roldan - ILVO t
+    <th>
+Vincent	Wolfs	- Sumaqua
+Dominique Huits - Inagro
+Elise 	Vandewoestijne - PCG
+Joris 	Denies	 - PSKW
+Michel	Vanombergen - Dpt Landbouw en Visserij
+Geert	Rogiers - VLM
+Kris 	Van Nieuwenhove - Provincie Antwerpen
+Marlies	Demuijnck - Provincie Limburg
+Lennert Damen - ANB
+Piet 	Debecker - INBO
     </th>
 </tr>
 </table>
