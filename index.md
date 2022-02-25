@@ -1,5 +1,3 @@
-{% seo %}
-
 ## Het project
 [PEILIMPACT](https://pureportal.ilvo.be/nl/projects/impact-van-peilverhogingen-en-vernatting-op-nabijgelegen-landbouw)
 bepaalt de impact van stijging van het grondwaterpeil en van toenemend bodemvochtgehalte op de opbrengst van veelvoorkomende
