@@ -18,7 +18,8 @@ PEILIMPACT wil aan de wieg staan van een tool die de impact van grondwaterpeilen
 
 <table>
   <tr><td>
- Anne	Gobin	- KULeuven/VITO
+    
+Anne	Gobin	- KULeuven/VITO
     
 Hendrik	Vandamme - ABS
     
@@ -37,8 +38,10 @@ Thomas	Vansteenkiste	- VMM
 Tine	Bommarez - Dpt Landbouw en Visserij
     
 Isabel Roldan - ILVO 
+    
    </td>
     <td>
+      
 Vincent	Wolfs	- Sumaqua
       
 Dominique Huits - Inagro
@@ -58,6 +61,7 @@ Marlies	Demuijnck - Provincie Limburg
 Lennert Damen - ANB
       
 Piet 	Debecker - INBO
+      
     </td>
 </tr>
 </table>
