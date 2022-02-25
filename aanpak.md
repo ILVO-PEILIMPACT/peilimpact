@@ -14,7 +14,7 @@ Programma van de workshops:
 - Introductie: water en landbouw – de uitdagingen
 - Brainstorm rond voor- en nadelen van vernatting. Welke aspecten moeten we beter in kaart brengen om de impact van peilverhogingen op de landbouwactiviteiten te kwantificeren?
 - Wat zijn mogelijke verdienmodellen op natte percelen?
-Naast de landbouwateliers waar uitgebreid in gesprek wordt gegaan met de landbouwsector, volgt ook een [begeleidende groep](./stuurgroep.html) de voortgang van het project op. 
+Naast de landbouwateliers waar uitgebreid in gesprek wordt gegaan met de landbouwsector, volgt ook een [begeleidende groep](https://ilvo-peilimpact.github.io/peilimpact/stuurgroep.html) de voortgang van het project op. 
 
 ### Literatuur
 Systematische literatuurstudie over impactinschatting van de factoren aangegeven in de workshops
@@ -38,4 +38,4 @@ Het finaal rapport alsook het modelinstrumentarium zelf zal vrij beschikbaar zij
 
 <img src=".\figs\placker_gantt_export_202202240954.png" width="600"/>
 
-[Terug naar startpagina](./index.html)
+[Terug naar startpagina](https://ilvo-peilimpact.github.io/peilimpact/)
