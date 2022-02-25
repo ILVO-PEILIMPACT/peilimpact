@@ -1,4 +1,4 @@
-
+{% seo %}
 
 ## Het project
 [PEILIMPACT](https://pureportal.ilvo.be/nl/projects/impact-van-peilverhogingen-en-vernatting-op-nabijgelegen-landbouw)
