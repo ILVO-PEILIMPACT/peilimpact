@@ -23,16 +23,16 @@ het mee opvolgt](./stuurgroep.html) en wat de planning is? Bekijk dan zeker de d
 > samen met je collega's. [Meer informatie...](./stuurgroep.md)
 
 ## Het team
-<table>
+<table bgcolor="#000000", border="0">
 <tr>
-<th>Diana Estrella</th>
-<th>Tom Deswaef</th>
-<th>Sarah Garré</th>
+<td align="center">Diana Estrella</td>
+<td align="center">Tom Deswaef</td>
+<td align="center">Sarah Garré</td>
 </tr>
 <tr>
-<td>onderzoeker</td>
-<td>expert gewasmodellering</td>
-<td>expert water & landbouw</td>
+<td align="center">onderzoeker</td>
+<td align="center">expert gewasmodellering</td>
+<td align="center">expert water & landbouw</td>
 </tr>
 <tr>
 <td><img src=".\figs\diana.jpg" width="150"/></td>
@@ -45,6 +45,8 @@ het mee opvolgt](./stuurgroep.html) en wat de planning is? Bekijk dan zeker de d
 ## Contact
 Heb je vragen in verband met dit project?
 Contacteer dan de projectcoördinator bij ILVO [Sarah Garré](https://pureportal.ilvo.be/nl/persons/sarah-garr%C3%A9).
+
+
 <img src=".\figs\logoILVO.png" width="300"/>
 
 
