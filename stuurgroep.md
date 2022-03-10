@@ -10,7 +10,9 @@ Ik neem deel en [schrijf me in](https://www.eventbrite.be/e/registratie-peilimpa
 Locatie: Loei Dolle Pret, Heikant 86A, 2270 Herenthout
 Ik neem deel en [schrijf me in](https://www.eventbrite.be/e/registratie-peilimpact-landbouwatelier-antwerpen-limburg-277530660677 ) !
 
-### Op de agenda voor het najaar Atelier Vlaams-Brabant
+Landbouwers uit Vlaams-Brabant zijn uiteraard ook welkom op de twee landbouwateliers!
+
+### Najaar 2022 Dialoog rond PEIL & PLANT 
 Locatie: nog te bepalen
 
 ## Samenstelling van de begeleidende groep
