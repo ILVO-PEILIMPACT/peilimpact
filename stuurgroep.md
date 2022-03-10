@@ -15,6 +15,9 @@ Landbouwers uit Vlaams-Brabant zijn uiteraard ook welkom op de twee landbouwatel
 ### Najaar 2022 Dialoog Eerste resultaten
 Locatie: nog te bepalen - wellicht De Zegge
 
+> Wil je weten hoe diep het grondwater in je buurt zit, ga dan zeker eens kijken op [de Grondwaterverkenner](https://www.dov.vlaanderen.be/portaal/?module=freatischgrondwaterverkenner). Daar kan je alle bestaande grondwatermeetputten zien als blauwe bolletjes. Als je er eentje aanklikt, kan je de putgrafiek opvragen en de diepte van het grondwater onder het maaiveld bekijken. Interessant, toch?
+
+
 ## Samenstelling van de begeleidende groep
 PEILIMPACT wil aan de wieg staan van een tool die de impact van grondwaterpeilen, maar ook van droogte op de landbouwpraktijk kan inschatten. Daarom is het erg belangrijk van aan de start met stakeholders aan het istrumentarium te werken. Enerzijds zijn dat natuurlijk de landbouwers zelf. Anderzijds is er ook een bredere begeleidende groep waarin allerlei belanghebbenden het project kunnen opvolgen.
 <table>
