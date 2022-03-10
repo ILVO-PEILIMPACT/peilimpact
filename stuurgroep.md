@@ -12,8 +12,8 @@ Ik neem deel en [schrijf me in](https://www.eventbrite.be/e/registratie-peilimpa
 
 Landbouwers uit Vlaams-Brabant zijn uiteraard ook welkom op de twee landbouwateliers!
 
-### Najaar 2022 Dialoog rond PEIL & PLANT 
-Locatie: nog te bepalen
+### Najaar 2022 Dialoog Eerste resultaten
+Locatie: nog te bepalen - wellicht De Zegge
 
 ## Samenstelling van de begeleidende groep
 PEILIMPACT wil aan de wieg staan van een tool die de impact van grondwaterpeilen, maar ook van droogte op de landbouwpraktijk kan inschatten. Daarom is het erg belangrijk van aan de start met stakeholders aan het istrumentarium te werken. Enerzijds zijn dat natuurlijk de landbouwers zelf. Anderzijds is er ook een bredere begeleidende groep waarin allerlei belanghebbenden het project kunnen opvolgen.
