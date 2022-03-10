@@ -2,8 +2,8 @@
 Heb je wel iets te vertellen over het thema, maar doe je dat liever samen met collega-landbouwers? Dan zijn de landbouwateliers iets voor jou!
 
 Hoewel grondwater onzichtbaar is, heeft het een belangrijke invloed op je landbouwactiviteit. Het is een reserve bij droogte, maar teveel water in de wortelzone maakt het ook soms moeilijk om te telen.  Na de voorbije droge zomers en de impact ervan op landbouw en natuur besteedt de overheid extra aandacht aan waterbeheer en het aanleggen van voldoende buffers en reserves. Toch zijn de effecten van het verhogen of verlagen van grondwaterpeilen op de landbouw niet altijd even goed gekend. Dit landbouwatelier wil telers samenbrengen om hun kennis over die effecten en goede praktijken te delen met elkaar. De onderzoekers zullen de aandachtspunten die naar voor worden geschoven ook gebruiken om een model te maken dat de invloed van grondwaterpeilen op de opbrengst van veel voorkomende teelten in Vlaanderen kan inschatten. Jouw inbreng uit de praktijk is dus van groot belang voor dat model.      
-### 21/03/2022 13-16:00 Atelier Oost- en West-Vlaanderen 
-Locatie: ILVO, Caritasstraat 39, Melle
+### 28/03/2022 13-16:00 Atelier Oost- en West-Vlaanderen 
+Locatie: ILVO D68,Scheldeweg 68, 9090 Melle
 Ik neem deel en [schrijf me in](https://www.eventbrite.be/e/registratie-peilimpact-landbouwatelier-267395827117 ) !
 
 ### 29/03/2022 20-22:00 Atelier Antwerpen-Limburg
@@ -15,8 +15,8 @@ PEILIMPACT wil aan de wieg staan van een tool die de impact van grondwaterpeilen
 <table>
   <tr><th>
     <ul>
-        <li> Anne	Gobin	- KULeuven/VITO</li>
-        <li> Hendrik	Vandamme - ABS</li>
+    <li> Anne	Gobin	- KULeuven/VITO</li>
+     <li> Hendrik	Vandamme - ABS</li>
         <li> Ilse	Geyskens - Boerenbond</li>
         <li> Jan	    Staes	- UAntwerpen</li>
         <li> Marie	Verhassel	- Dpt Landbouw en Visserij</li>
