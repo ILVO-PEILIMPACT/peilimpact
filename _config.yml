@@ -1,14 +1,14 @@
 theme: jekyll-theme-slate
 
 title: PEILIMPACT
-tagline: impact van grondwaterpeil op landbouwpraktijk
+#tagline: impact van grondwaterpeil op landbouwpraktijk
 description: Schatting van de impact van peilverhogingen en vernatting op nabijgelegen landbouwgebied in Vlaanderen
 
 show_downloads: [false]
 
-plugins:
-  - jekyll-seo-tag
+#plugins:
+ # - jekyll-seo-tag
 
-author: Sarah Garré
-  twitter: sarahgarre
-  picture: /figs/sarah.jpg
+#author: Sarah Garré
+#  twitter: sarahgarre
+#  picture: /figs/sarah.jpg
