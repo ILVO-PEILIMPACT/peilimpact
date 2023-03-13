@@ -13,12 +13,8 @@ positief en negatief, en hun oorzaken mee te nemen in het evaluatiekader.
 
 ## Meer weten?
 
-Wil je graag meer weten over [hoe we dit project precies aanpakken](./aanpak.html), [wie
-het mee opvolgt](./stuurgroep.html) en wat de planning is? Bekijk dan zeker de desbetreffende pagina's van deze website.
-
-> Ben je landbouwer en heb je iets te vertellen over hoe grondwaterpeilen of natte omstandigheden jouw landbouwpraktijk 
-> beïnvloeden en hoe je daarmee omgaat? Neem dan zeker deel aan een van onze landbouwateliers waar jij aan het woord bent 
-> samen met je collega's. [Meer informatie...](./stuurgroep.md)
+Het eindrapport van dit project kan je vinden op https://ilvo_plant-peilimpact_nl.curve.space/. Daar kan het ook als PDF downloaden. 
+Het model zelf kan je [hier](https://github.com/ILVO-PEILIMPACT) downloaden om zelf mee aan de slag te gaan.
 
 ## Het team
 <table>
